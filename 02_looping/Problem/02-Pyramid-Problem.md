@@ -11,8 +11,8 @@
 ```py
 >>> print('X'*5) # เป็นการ print X 5 ตัว
 XXXXX
->>> print('*'*4) # เป็นการ print * 4 ตัว
-****
+>>> print('A'*4) # เป็นการ print A 4 ตัว
+AAAA
 ```
 
 ### Example 1
@@ -25,7 +25,7 @@ size : 5
   IIIII
  IIIIIII
 IIIIIIIII
-Use I 25 item
+Use I 25 items
 ```
 
 ### Example 2

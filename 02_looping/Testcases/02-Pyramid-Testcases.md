@@ -8,7 +8,7 @@ size : 5
   IIIII
  IIIIIII
 IIIIIIIII
-Use I 25 item
+Use I 25 items
 ```
 
 ### Testcase 2
