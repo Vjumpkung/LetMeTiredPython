@@ -29,7 +29,7 @@ Price : 1120 baht
 
 ```
 Customer name : vjump
-Input time (minutes) ?: 888
+Input time (minutes) : 888
 -------------------------------
 Name : vjump
 Playtime : 14 hr. 48 min.
