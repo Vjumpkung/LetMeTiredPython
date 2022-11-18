@@ -38,7 +38,7 @@ Total Negative Number : 1
 <pre class='output'>
 <em>0</em>
 Total Postitive Number : 0
-Total Negative Number 0
+Total Negative Number : 0
 </pre>
 
 

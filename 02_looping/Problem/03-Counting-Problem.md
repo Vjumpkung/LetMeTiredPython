@@ -39,5 +39,5 @@ Total Negative Number : 1
 ```
 0
 Total Postitive Number : 0
-Total Negative Number 0
+Total Negative Number : 0
 ```

@@ -17,7 +17,7 @@ Total Negative Number : 3
 ```
 0
 Total Postitive Number : 0
-Total Negative Number 0
+Total Negative Number : 0
 ```
 
 ### Testcase 3
